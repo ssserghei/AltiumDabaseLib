@@ -1,0 +1,49 @@
+Added Component: Designator=C?(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(TO254P482X997X2018-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM337BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm337btg/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/LM337-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.82mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM337BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-LM337BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/LM337BTG?qs=2OtswVQKCOGoOfwNKxF%2F1w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM337BTG"; VariantName = "[No Variations]"
+Added Component: Designator=DA?(TO254P470X1028X1955-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM317AT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm317atnopb/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lm317a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM317AT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM317AT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM317AT-NOPB?qs=X1J7HmVL2ZFYFJRcNgsWcQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM317AT_NOPB"; VariantName = "[No Variations]"
+Added Component: Designator=VR?(P160KN0QC15B50K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b50k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/P160KN-0QC15B50K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BI Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Added Component: Designator=XT(DG350-3.5-3)
+Add component (AddParameter): Name = "Part Number"; Value = "DG350-3.5-3"; VariantName = "[No Variations]"
+Added Component: Designator=XT(DG350-3.5-3)
+Add component (AddParameter): Name = "Part Number"; Value = "DG350-3.5-3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA?_2 Pin=DA?-2
+Added Pin To Net: NetName=NetDA?_2 Pin=DA?-3
+Added Pin To Net: NetName=NetDA?_2 Pin=XT-2
+Added Pin To Net: NetName=NetDA?_2 Pin=XT-2
+Added Member To Class: ClassName=Liniar Power Source Member=Component C? CAP CER RADIAL
+Added Member To Class: ClassName=Liniar Power Source Member=Component C? CAP CER RADIAL
+Added Member To Class: ClassName=Liniar Power Source Member=Component DA? LM337BTG
+Added Member To Class: ClassName=Liniar Power Source Member=Component DA? LM317AT_NOPB
+Added Member To Class: ClassName=Liniar Power Source Member=Component VR? P160KN-0QC15B50K
+Added Member To Class: ClassName=Liniar Power Source Member=Component XT DG350-3.5-3
+Added Member To Class: ClassName=Liniar Power Source Member=Component XT DG350-3.5-3

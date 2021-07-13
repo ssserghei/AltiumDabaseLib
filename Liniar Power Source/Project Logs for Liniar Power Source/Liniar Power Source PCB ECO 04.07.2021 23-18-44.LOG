@@ -1,0 +1,5 @@
+Added Component: Designator=DD?(WDFN-10L 3x3)
+Add component (AddParameter): Name = "Part Number"; Value = "MAX17047G+T10"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Liniar Power Source Member=Component DD? MAX17047G+T10
+Added Member To Class: ClassName=Liniar Power Source Member=Component XT DG350-3.5-3
+Added Room: Name=Liniar Power Source

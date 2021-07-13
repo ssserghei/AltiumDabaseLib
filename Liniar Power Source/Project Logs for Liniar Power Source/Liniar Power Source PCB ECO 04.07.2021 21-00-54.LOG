@@ -1,0 +1,14 @@
+Added Component: Designator=VR?(P160KN0QC15B50K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b50k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/P160KN-0QC15B50K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BI Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Liniar Power Source Member=Component C? CAP CER RADIAL
+Added Member To Class: ClassName=Liniar Power Source Member=Component DA? LM337BTG
+Added Member To Class: ClassName=Liniar Power Source Member=Component VR? P160KN-0QC15B50K
+Added Member To Class: ClassName=Liniar Power Source Member=Component XT DG350-3.5-3

@@ -1,0 +1,208 @@
+Added Component: Designator=C1(Cap electrolitic radial 16x25 B)
+Add component (AddParameter): Name = "Part Number"; Value = "Cap electrolitic radial 16x25"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap electrolitic radial 16x25 B)
+Add component (AddParameter): Name = "Part Number"; Value = "Cap electrolitic radial 16x25"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Cap electrolitic radial 16x25 B)
+Add component (AddParameter): Name = "Part Number"; Value = "Cap electrolitic radial 16x25"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Cap electrolitic radial 16x25 B)
+Add component (AddParameter): Name = "Part Number"; Value = "Cap electrolitic radial 16x25"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Cap electrolitic radial 16x25 B)
+Add component (AddParameter): Name = "Part Number"; Value = "Cap electrolitic radial 16x25"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Cap electrolitic radial 16x25 B)
+Add component (AddParameter): Name = "Part Number"; Value = "Cap electrolitic radial 16x25"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP CER 5x3x75mm)
+Add component (AddParameter): Name = "Part Number"; Value = "CAP CER RADIAL"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(TO254P470X1028X1955-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM317AT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm317atnopb/texas-instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lm317a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM317AT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM317AT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM317AT-NOPB?qs=X1J7HmVL2ZFYFJRcNgsWcQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM317AT_NOPB"; VariantName = "[No Variations]"
+Added Component: Designator=DA2(TO254P482X997X2018-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM337BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm337btg/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/LM337-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.82mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM337BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-LM337BTG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/LM337BTG?qs=2OtswVQKCOGoOfwNKxF%2F1w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM337BTG"; VariantName = "[No Variations]"
+Added Component: Designator=P1(DG350-3.5-3)
+Add component (AddParameter): Name = "Part Number"; Value = "DG350-3.5-3"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(TO254P483X1010X2035-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/TIP41A-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TIP42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-TIP42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/TIP42?qs=ljbEvF4DwOPva3Veot79WQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(TO254P483X1010X2035-3P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TIP41C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tip41c/on-semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/TIP41A-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TIP41C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "512-TIP41C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor-Fairchild/TIP41C?qs=ljbEvF4DwONP6g8z%252BtNuIA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(DO-35)
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(DO-35)
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(DO-35)
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(DO-35)
+Add component (AddParameter): Name = "Part Number"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=VR1(P160KN0QC15B50K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b50k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/P160KN-0QC15B50K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BI Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(P160KN0QC15B50K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b50k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/P160KN-0QC15B50K.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "20.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "BI Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=858-P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "P160KN-0QC15B50K"; VariantName = "[No Variations]"
+Added Component: Designator=XT(DG350-3.5-3)
+Add component (AddParameter): Name = "Part Number"; Value = "DG350-3.5-3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR2-3
+Added Pin To Net: NetName=GND Pin=XT-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C3-2
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=VD1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=C4-1
+Added Pin To Net: NetName=NetC2_2 Pin=Q2-3
+Added Pin To Net: NetName=NetC2_2 Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=VD2-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C7-1
+Added Pin To Net: NetName=NetC5_2 Pin=DA1-3
+Added Pin To Net: NetName=NetC5_2 Pin=Q1-1
+Added Pin To Net: NetName=NetC5_2 Pin=R1-2
+Added Pin To Net: NetName=NetC5_2 Pin=VD4-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C8-2
+Added Pin To Net: NetName=NetC6_1 Pin=DA2-2
+Added Pin To Net: NetName=NetC6_1 Pin=Q2-1
+Added Pin To Net: NetName=NetC6_1 Pin=R2-2
+Added Pin To Net: NetName=NetC6_1 Pin=VD3-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C11-2
+Added Pin To Net: NetName=NetC9_1 Pin=DA1-2
+Added Pin To Net: NetName=NetC9_1 Pin=P1-1
+Added Pin To Net: NetName=NetC9_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC9_1 Pin=R3-2
+Added Pin To Net: NetName=NetC9_1 Pin=VD4-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=C12-1
+Added Pin To Net: NetName=NetC10_2 Pin=DA2-3
+Added Pin To Net: NetName=NetC10_2 Pin=P1-3
+Added Pin To Net: NetName=NetC10_2 Pin=Q2-2
+Added Pin To Net: NetName=NetC10_2 Pin=R4-2
+Added Pin To Net: NetName=NetC10_2 Pin=VD3-2
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetDA1_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_1 Pin=R3-1
+Added Pin To Net: NetName=NetDA1_1 Pin=VR1-1
+Added Net: Name=NetDA1_1
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-1
+Added Pin To Net: NetName=NetDA2_1 Pin=R4-1
+Added Pin To Net: NetName=NetDA2_1 Pin=VR2-1
+Added Net: Name=NetDA2_1
+Added Pin To Net: NetName=NetVD1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=XT-1
+Added Net: Name=NetVD1_1
+Added Pin To Net: NetName=NetVD2_2 Pin=VD2-2
+Added Pin To Net: NetName=NetVD2_2 Pin=XT-3
+Added Net: Name=NetVD2_2
+Added Member To Class: ClassName=Liniar Power Source Member=Component C1 3300uF/25V
+Added Member To Class: ClassName=Liniar Power Source Member=Component C2 3300uF/25V
+Added Member To Class: ClassName=Liniar Power Source Member=Component C3 C104
+Added Member To Class: ClassName=Liniar Power Source Member=Component C4 C104
+Added Member To Class: ClassName=Liniar Power Source Member=Component C5 C104
+Added Member To Class: ClassName=Liniar Power Source Member=Component C6 C104
+Added Member To Class: ClassName=Liniar Power Source Member=Component C7 3300uF/25V
+Added Member To Class: ClassName=Liniar Power Source Member=Component C8 3300uF/25V
+Added Member To Class: ClassName=Liniar Power Source Member=Component C9 3300uF/25V
+Added Member To Class: ClassName=Liniar Power Source Member=Component C10 3300uF/25V
+Added Member To Class: ClassName=Liniar Power Source Member=Component C11 C104
+Added Member To Class: ClassName=Liniar Power Source Member=Component C12 C104
+Added Member To Class: ClassName=Liniar Power Source Member=Component DA1 LM317AT_NOPB
+Added Member To Class: ClassName=Liniar Power Source Member=Component DA2 LM337BTG
+Added Member To Class: ClassName=Liniar Power Source Member=Component P1 DG350-3.5-3
+Added Member To Class: ClassName=Liniar Power Source Member=Component Q1 TIP42
+Added Member To Class: ClassName=Liniar Power Source Member=Component Q2 TIP41C
+Added Member To Class: ClassName=Liniar Power Source Member=Component R1 240
+Added Member To Class: ClassName=Liniar Power Source Member=Component R2 240
+Added Member To Class: ClassName=Liniar Power Source Member=Component R3 240
+Added Member To Class: ClassName=Liniar Power Source Member=Component R4 240
+Added Member To Class: ClassName=Liniar Power Source Member=Component VD1 1N4007
+Added Member To Class: ClassName=Liniar Power Source Member=Component VD2 1N4007
+Added Member To Class: ClassName=Liniar Power Source Member=Component VD3 1N4007
+Added Member To Class: ClassName=Liniar Power Source Member=Component VD4 1N4007
+Added Member To Class: ClassName=Liniar Power Source Member=Component VR1 10K
+Added Member To Class: ClassName=Liniar Power Source Member=Component VR2 10K
+Added Member To Class: ClassName=Liniar Power Source Member=Component XT DG350-3.5-3
+Added Room: Name=Liniar Power Source
